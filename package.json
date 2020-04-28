@@ -1,0 +1,17 @@
+{
+	"name": "bot",
+	"version": "1.0.0",
+	"description": "Ein Discord Bot für Zeug und so",
+	"main": "index.js",
+	"repository": "https://github.com/ciearius/bot",
+	"author": "Julius Weber",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^12.0.2",
+		"dotenv": "^8.2.0"
+	},
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	}
+}
