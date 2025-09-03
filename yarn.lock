@@ -99,5 +99,5 @@ whatwg-url@^5.0.0:
     webidl-conversions "^3.0.0"
 
 ws@^7.4.4:
-  version "7.5.3"
-  resolved "https://registry.npmjs.org/ws/-/ws-7.5.3.tgz"
+  version "7.5.10"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.5.10.tgz#58b5c20dc281633f6c19113f39b349bd8bd558d9"
